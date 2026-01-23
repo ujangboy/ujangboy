@@ -27,4 +27,8 @@ C++, Python, Git, GitHub, or tips for starting your programming journey!
 
 <a href="https://www.instagram.com/asep.suyatna__" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<<<<<<< HEAD
 </a>
+=======
+</a>
+>>>>>>> bd3a395625ae7d0d0c32a75ecfbf5bc9a7b016e4
