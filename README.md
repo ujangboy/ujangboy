@@ -8,24 +8,23 @@
   This repository serves as my learning journal and project portfolio.
 </p>
 
-<br><br><br><br><br>
+<br>
 
-<h3 align="center">💻 Programming</h3>
+### 💻 Programming
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-<br><br><br><br><br>
+<br>
 
-<h3 align="center">💬 Ask me about</h3>
-<p align="center">
-  C++, Python, Git, GitHub, or tips for starting your programming journey!
-</p>
+### 💬 Ask me about
 
-<p align="center">
-  <a href="https://www.instagram.com/asep.suyatna__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+C++, Python, Git, GitHub, or tips for starting your programming journey!
+
+<br>
+
+<a href="https://www.instagram.com/asep.suyatna__" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
