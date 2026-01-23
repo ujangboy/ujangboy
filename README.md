@@ -1,16 +1,30 @@
-## Hi there 👋
+<h2 align="center">
+  <span style="color: #87CEEB;">Hi, I'm</span>
+  <span style="color: #FFD700;"> UjangPrime</span> 🍌
+</h2>
 
-<!--
-**ujangboy/ujangboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🇮🇩 A beginner programmer from Indonesia.<br>
+  This repository serves as my learning journal and project portfolio.
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+<br>
+
+### 💬 Ask me about
+
+C++, Python, Git, GitHub, or tips for starting your programming journey!
+
+<br>
+
+<a href="https://www.instagram.com/asep.suyatna__" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
