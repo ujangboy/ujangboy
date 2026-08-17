@@ -37,7 +37,7 @@
 | [kabayan-Ai](https://github.com/ujangboy/kabayan-Ai) | AI agent dengan backend Python | Python, FastAPI, React |
 | [belajar-python](https://github.com/ujangboy/belajar-python) | Jurnal belajar Python dari dasar | Python |
 | [belajar-python-ml](https://github.com/ujangboy/belajar-python-ml) | Pembelajaran Machine Learning | Python, scikit-learn |
-| [projek-web-managemen-mahasiswa](https://github.com/ujangboy/projek-web-managemen-mahasiswa) | Web manajemen mahasiswa | HTML, CSS, JavaScript |
+| [projek-web-managemen-mahasiswa](https://github.com/ujangboy/projek-web-managemen-mahasiswa) | Web manajemen mahasiswa ([live demo](https://ujangboy.pythonanywhere.com/)) | HTML, CSS, JavaScript |
 | [100-hari-cpp](https://github.com/ujangboy/100-hari-cpp) | Tantangan belajar C++ 100 hari | C++ |
 | [projek_game](https://github.com/ujangboy/projek_game) | Pengembangan game | Godot, GDScript |
 
